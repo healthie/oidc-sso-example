@@ -90,3 +90,7 @@ This is a demonstration of the login flow, not a template to deploy as-is.
 - The access token is shown on the page only as decoded claims, but it is still sent to `VITE_API_URL` when you click "Call API". Only point that at an API you trust.
 - Allow only the exact origins and redirect URIs you need with the provider. Use `localhost` entries in staging only, never in production.
 - Never put a secret in a `VITE_` variable. Vite bundles those into the JavaScript that the browser downloads.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
