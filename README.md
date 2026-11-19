@@ -1,4 +1,4 @@
-# OIDC POC
+# OIDC Example
 
 This project is a small Vite app that demonstrates OIDC login against an OIDC provider.
 
